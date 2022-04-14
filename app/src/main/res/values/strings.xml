@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentPW</string>
+    <string name="view_more">View More</string>
+    <string name="qualification">Qualification</string>
+    <string name="dot">•</string>
+    <string name="subject">Subject</string>
+    <string name="user_name">User Name</string>
+    <string name="home">Home</string>
+    <string name="get_start">Get Start</string>
+</resources>
